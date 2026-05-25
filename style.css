@@ -3,3 +3,13 @@ background-color:#B22222 ;
 
 
 }
+
+
+.inicio{
+    color: lavender;
+    font-size: 20px ;
+}
+#carro{
+    display: flex;
+    padding-left: 200px;
+}
