@@ -1,8 +1,23 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+
 body{
 background-color:#B22222 ;
-
-
+color: darkslategray;
+margin: 0px;
+margin-bottom: 100px;
 }
+
+header{
+  border-bottom: solid 2px #000000;
+  margin: 20px;
+  font-size: 32px;
+  color: black;
+}
+
 
 
 .inicio{
@@ -13,3 +28,11 @@ background-color:#B22222 ;
     display: flex;
     padding-left: 200px;
 }
+
+.videos{
+
+  display: flex;
+  overflow: auto;
+  gap: 10px;
+}
+
